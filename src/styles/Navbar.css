@@ -1,0 +1,15 @@
+#dropdown {
+    border-radius: 16px;
+    background-color: black;
+    color: white;
+}
+
+#navbar-example2 {
+    background-color: rgb(66, 66, 114);
+}
+
+.nav-link{
+    border-radius: 16px;
+    background-color: black;
+    color: white;
+}
